@@ -1,2 +1,21 @@
+.holder3{
+	background-color:green;
+	padding:20px;
+    width:30px;
+	display:inline-block;
+	justify-content:space-between;
+}
 
-/* Your CSS Code here. */
+.holder1{
+    justify-content:space-between;
+	background-color:red;
+	display:inline-block;
+	padding:20px;
+	 width:30px;
+}
+.holder2{
+	background-color:blue;
+	display:inline-block;
+	padding:20px;
+	 width:30px;
+}
